@@ -34,3 +34,10 @@ Computer vision is a field of artificial intelligence (AI) that enables computer
  - Pytorch
  - Numpy 
  - Jupyter notebook
+
+
+## Projects
+
+-Hieroglyphics Detector From Research to Production (my Dream Project) [code](https://github.com/MoAbeds/hieroglyphics-full-app)
+
+-Neural Style Transfer [code](https://github.com/MoAbeds/Neural-Style-Transfer-TF/blob/main/Neural_Style_Transfer_TF.ipynb)
