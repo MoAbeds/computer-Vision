@@ -1,0 +1,26 @@
+network:
+  input: 3 
+  depth: 50
+  classes: 400
+  lr : 1e-1
+
+
+
+data:
+  root: /content/data
+  name: Kinetics
+  CLIP_DURATION: 2
+   
+  BATCH_SIZE : 8
+  NUM_WORKERS : 8 
+
+trainer:
+  lr: 0.0005
+  gradient_clip_value: 2
+  check_val_every_n_epoch: 2
+  gpus: 1
+  epochs: 20
+  precision: 16
+hydra:
+  run:
+    dir: /outputs/${now:%Y-%m-%d}/${now:%H-%M-%S}
