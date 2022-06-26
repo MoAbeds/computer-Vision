@@ -19,3 +19,8 @@
 Follow Steps in [Github](https://github.com/activitynet/ActivityNet/tree/master/Crawler/Kinetics) to download the Dataset
 Put the data in File called Data inside in two Folders (train-val)
 - Kinetics [website](https://deepmind.com/research/open-source/kinetics) [download](https://github.com/activitynet/ActivityNet/tree/master/Crawler/Kinetics)
+
+
+## Demo
+
+[Colab](https://colab.research.google.com/github/MoAbeds/computer-Vision/blob/colabs/Video-classification.ipynb)

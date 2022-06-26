@@ -46,3 +46,6 @@ Computer vision is a field of artificial intelligence (AI) that enables computer
 -Neural Style Transfer [code](https://github.com/MoAbeds/Neural-Style-Transfer-TF/blob/main/Neural_Style_Transfer_TF.ipynb)
 
 -Resize Network from Scratch [Paper](https://arxiv.org/abs/2103.09950) [code](https://github.com/MoAbeds/computer-Vision/tree/main/CNN%20Architectures/Resizer)
+
+
+-Video Classification using Resnet [code](https://github.com/MoAbeds/computer-Vision/tree/main/CNN%20Architectures/video-class) [Colab](https://colab.research.google.com/github/MoAbeds/computer-Vision/blob/colabs/Video-classification.ipynb)
